@@ -4,7 +4,7 @@
 
 To set up your environment to develop this theme, run `bundle install`.
 
-To test the theme, run `bundle exec jekyll serve`.
+To test the theme, run `jekyll serve`.
 
 ---
 
@@ -117,3 +117,5 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+[Open Source Vectors by Vecteezy](https://www.vecteezy.com/free-vector/open-source)
