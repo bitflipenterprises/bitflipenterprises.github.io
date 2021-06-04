@@ -63,8 +63,8 @@ analytics:
 author:
   name             : "Cristina Muñoz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am the found of Bitflip Enterprises."
-  location         : "San Jose, CA"
+  bio              : "I am the founder of Bitflip Enterprises."
+  location         : ""
   email            : "cristina@bitflipenterprises.com"
   links:
     - label: "Email"
@@ -82,7 +82,7 @@ footer:
       url: "mailto:cristina@bitflipenterprises.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bitflipenterprises"
+      url: "https://github.com/xmunoz"
 
 # Reading Files
 include:
